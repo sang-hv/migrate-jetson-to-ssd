@@ -4,8 +4,6 @@
 SOURCE="/dev/mmcblk0"
 DESTINATION="/dev/nvme0n1"
 
-ls -la
-
 # Function to show help message
 show_help() {
     echo "Usage: $0 [OPTIONS]"
