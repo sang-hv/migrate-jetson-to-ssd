@@ -1,7 +1,5 @@
 #!/bin/bash
 
-ls -la 
-
 # Function to print usage and exit
 usage() {
   echo "Usage: $(basename "$0") [OPTIONS]"
